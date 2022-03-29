@@ -1,0 +1,4 @@
+#!/bin/bash
+
+curl -s http://ipinfo.io/104.223.95.86
+
